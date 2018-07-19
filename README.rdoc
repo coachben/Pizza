@@ -1,7 +1,6 @@
-== README
+== Pizzeria App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pizzas Raised to Power 2.
 
 Things you may want to cover:
 
